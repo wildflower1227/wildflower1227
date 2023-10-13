@@ -3,7 +3,7 @@ Hi 👋 My name is Lena
 
 I am doing an apprenticeship as a Software Engineer, in the field of InfoSec full time. I like to code and study Cybersecurity in my free time. My first programming language was Java.
 
-* 🌍  I'm based in Earth for now
+* 🌍  I'm based on Earth for now
 
 ### Skills
 
