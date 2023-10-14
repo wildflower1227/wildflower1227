@@ -1,7 +1,7 @@
 Hi 👋 My name is Lena
 =====================
 
-I am doing an apprenticeship as a Software Engineer, in the field of Security, full time. Besides composing music and playing video games, I like to code and study Cybersecurity in my free time. My first programming language was Java.
+I am doing an apprenticeship as a Software Engineer, in the field of ITSec, full time. Besides composing music and playing video games, I like to code and study Cybersecurity in my free time. My first programming language was Java.
 
 * 🌍  I'm based on Earth for now
 
