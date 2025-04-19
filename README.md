@@ -1,10 +1,10 @@
 Hi 👋 My name is Lena
 =====================
 
-I am doing an apprenticeship as a Software Engineer, in the field of ITSec, full time. Besides composing music and playing video games, I like to code and study Cybersecurity in my free time. My first programming language was Java.
+I am a software dev in IT-Sec. Besides composing music and playing video games, I like to code and go to the gym in my free time. My first programming language was Java.
 
 * 🌍  I'm based in Earth for now
-* 🧠  I'm learning Django
+* 🧠  I'm learning too much haha: Dart, Python, C#, Java and many more
 * ⚡  I'm secretly Spiderman ... don't tell anyone
 
 ### Skills
